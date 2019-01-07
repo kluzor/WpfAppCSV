@@ -1,0 +1,332 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7": {
+      "Extended.Wpf.Toolkit/3.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Xaml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.dll": {},
+          "lib/net40/Xceed.Wpf.DataGrid.dll": {},
+          "lib/net40/Xceed.Wpf.Toolkit.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.dll": {},
+          "lib/net40/Xceed.Wpf.DataGrid.dll": {},
+          "lib/net40/Xceed.Wpf.Toolkit.dll": {}
+        },
+        "resource": {
+          "lib/net40/de/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net40/es/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net40/fr/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net40/hu/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/net40/it/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net40/pt-BR/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net40/ro/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "ro"
+          },
+          "lib/net40/ru/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net40/sv/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/net40/zh-Hans/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "zh-Hans"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win": {
+      "Extended.Wpf.Toolkit/3.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Xaml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.dll": {},
+          "lib/net40/Xceed.Wpf.DataGrid.dll": {},
+          "lib/net40/Xceed.Wpf.Toolkit.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.dll": {},
+          "lib/net40/Xceed.Wpf.DataGrid.dll": {},
+          "lib/net40/Xceed.Wpf.Toolkit.dll": {}
+        },
+        "resource": {
+          "lib/net40/de/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net40/es/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net40/fr/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net40/hu/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/net40/it/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net40/pt-BR/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net40/ro/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "ro"
+          },
+          "lib/net40/ru/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net40/sv/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/net40/zh-Hans/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "zh-Hans"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-x64": {
+      "Extended.Wpf.Toolkit/3.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Xaml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.dll": {},
+          "lib/net40/Xceed.Wpf.DataGrid.dll": {},
+          "lib/net40/Xceed.Wpf.Toolkit.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.dll": {},
+          "lib/net40/Xceed.Wpf.DataGrid.dll": {},
+          "lib/net40/Xceed.Wpf.Toolkit.dll": {}
+        },
+        "resource": {
+          "lib/net40/de/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net40/es/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net40/fr/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net40/hu/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/net40/it/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net40/pt-BR/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net40/ro/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "ro"
+          },
+          "lib/net40/ru/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net40/sv/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/net40/zh-Hans/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "zh-Hans"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-x86": {
+      "Extended.Wpf.Toolkit/3.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Xaml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.dll": {},
+          "lib/net40/Xceed.Wpf.DataGrid.dll": {},
+          "lib/net40/Xceed.Wpf.Toolkit.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll": {},
+          "lib/net40/Xceed.Wpf.AvalonDock.dll": {},
+          "lib/net40/Xceed.Wpf.DataGrid.dll": {},
+          "lib/net40/Xceed.Wpf.Toolkit.dll": {}
+        },
+        "resource": {
+          "lib/net40/de/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net40/es/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net40/fr/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net40/hu/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/net40/it/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net40/pt-BR/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net40/ro/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "ro"
+          },
+          "lib/net40/ru/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net40/sv/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/net40/zh-Hans/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "zh-Hans"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extended.Wpf.Toolkit/3.3.0": {
+      "sha512": "KSgZdDblIjz2vhkRfOZ1jk71Y0FT/eFrbBXXXLebHwVZDOO8ni0d4lfPliZ5vytdV9jqfuJzDI4lOD5pfFLYyQ==",
+      "type": "package",
+      "path": "extended.wpf.toolkit/3.3.0",
+      "files": [
+        "extended.wpf.toolkit.3.3.0.nupkg.sha512",
+        "extended.wpf.toolkit.nuspec",
+        "lib/net35/WPFToolkit.dll",
+        "lib/net35/Xceed.Wpf.Toolkit.dll",
+        "lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "lib/net40/Xceed.Wpf.DataGrid.dll",
+        "lib/net40/Xceed.Wpf.Toolkit.dll",
+        "lib/net40/de/Xceed.Wpf.AvalonDock.resources.dll",
+        "lib/net40/es/Xceed.Wpf.AvalonDock.resources.dll",
+        "lib/net40/fr/Xceed.Wpf.AvalonDock.resources.dll",
+        "lib/net40/hu/Xceed.Wpf.AvalonDock.resources.dll",
+        "lib/net40/it/Xceed.Wpf.AvalonDock.resources.dll",
+        "lib/net40/pt-BR/Xceed.Wpf.AvalonDock.resources.dll",
+        "lib/net40/ro/Xceed.Wpf.AvalonDock.resources.dll",
+        "lib/net40/ru/Xceed.Wpf.AvalonDock.resources.dll",
+        "lib/net40/sv/Xceed.Wpf.AvalonDock.resources.dll",
+        "lib/net40/zh-Hans/Xceed.Wpf.AvalonDock.resources.dll",
+        "tools/install.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7": [
+      "Extended.Wpf.Toolkit >= 3.3.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kuchap\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kuchap\\Desktop\\Aplikacje\\WpfAppCSV\\WpfAppCSV\\WpfAppCSV.csproj",
+      "projectName": "WpfAppCSV",
+      "projectPath": "C:\\Users\\kuchap\\Desktop\\Aplikacje\\WpfAppCSV\\WpfAppCSV\\WpfAppCSV.csproj",
+      "packagesPath": "C:\\Users\\kuchap\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kuchap\\Desktop\\Aplikacje\\WpfAppCSV\\WpfAppCSV\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\kuchap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net47"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net47": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net47": {
+        "dependencies": {
+          "Extended.Wpf.Toolkit": {
+            "target": "Package",
+            "version": "[3.3.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
